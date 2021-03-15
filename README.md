@@ -1,7 +1,11 @@
 ### About Me
 
-I'm a junior undergraduate and expected to graduate in 2022.
+Junior undergraduate and expected to graduate in 2022.
 
-I focused on system programming with C++ and know a little bit about distributed systems.
+Interning as GPU architect at [NVIDIA](https://github.com/NVIDIA).
 
-I interned at [Tencent](https://github.com/Tencent), [TuSimple](https://github.com/TuSimple) and [PingCAP](https://github.com/PingCAP).
+I focus on system programming with C++ and know a little bit about distributed systems.
+
+Previous intern at [Tencent](https://github.com/Tencent), [TuSimple](https://github.com/TuSimple) and [PingCAP](https://github.com/PingCAP).
+
+Incoming SWE intern at [Google](https://github.com/Google) this summer.
