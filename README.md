@@ -1,7 +1,8 @@
-### About Me
+### About me
+
 Junior undergraduate and expected to graduate in 2022.
 
-System programming with C++
+System programming with C++.
 
 Interning as GPU architect at [NVIDIA](https://github.com/NVIDIA).
 
@@ -11,4 +12,6 @@ Incoming SWE Intern at [Google](https://github.com/Google) in 2021 Summer.
 
 NOT looking for a job.
 
-Contact me: sjwsl@gmail.com
+### Contact me
+
+sjwsl@gmail.com
