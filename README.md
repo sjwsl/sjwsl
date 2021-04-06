@@ -1,8 +1,7 @@
 ### About Me
-
 Junior undergraduate and expected to graduate in 2022.
 
-I focus on system programming with C++ and know a little bit about distributed systems.
+System programming with C++
 
 Interning as GPU architect at [NVIDIA](https://github.com/NVIDIA).
 
