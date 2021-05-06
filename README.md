@@ -16,4 +16,10 @@ NOT looking for a job.
 
 sjwsl@gmail.com
 
-[![sjwsl's github stats](https://github-readme-stats.vercel.app/api?username=sjwsl&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=sjwsl&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjwsl&layout=compact&theme=material-palenight" />
+</a>
