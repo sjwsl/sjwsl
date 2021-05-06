@@ -15,3 +15,5 @@ NOT looking for a job.
 ### Contact me
 
 sjwsl@gmail.com
+
+[![sjwsl's github stats](https://github-readme-stats.vercel.app/api?username=sjwsl&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
