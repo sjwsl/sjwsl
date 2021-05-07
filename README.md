@@ -25,5 +25,5 @@ sjwsl@gmail.com
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/wakatime?username=sjwsl&theme=material-palenight" />
+  <img align="center" height=241 src="https://github-readme-stats.vercel.app/api/wakatime?username=sjwsl&theme=material-palenight" />
 </a>
