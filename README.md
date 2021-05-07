@@ -17,11 +17,13 @@ NOT looking for a job.
 sjwsl@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=sjwsl&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sjwsl's github stats" />
+  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=sjwsl&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sjwsl's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjwsl&layout=compact&theme=material-palenight" />
+  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjwsl&layout=compact&theme=material-palenight" />
 </a>
 
-[![sjwsl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjwsl)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height=170 src="hhttps://github-readme-stats.vercel.app/api/wakatime?username=sjwsl" />
+</a>
