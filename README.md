@@ -23,3 +23,5 @@ sjwsl@gmail.com
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjwsl&layout=compact&theme=material-palenight" />
 </a>
+
+[![sjwsl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjwsl)](https://github.com/anuraghazra/github-readme-stats)
