@@ -4,7 +4,7 @@ Junior undergraduate and expected to graduate in 2022.
 
 System programming with C++.
 
-Interning as GPU architect at [NVIDIA](https://github.com/NVIDIA).
+GPU architect intern at [NVIDIA](https://github.com/NVIDIA).
 
 Previous intern at [Tencent](https://github.com/Tencent), [TuSimple](https://github.com/TuSimple) and [PingCAP](https://github.com/PingCAP).
 
