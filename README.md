@@ -16,14 +16,4 @@ NOT looking for a job.
 
 xts.sjwsl@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=sjwsl&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sjwsl's github stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjwsl&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=241 src="https://github-readme-stats.vercel.app/api/wakatime?username=sjwsl&theme=material-palenight" />
-</a>
+<figure><img align=center width=800 height=500 src="https://wakatime.com/share/@sjwsl/50bd014c-f72c-4ef5-b3c1-a281fd1074a2.svg"></img></figure>
