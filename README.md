@@ -16,4 +16,4 @@ NOT looking for a job.
 
 xts.sjwsl@gmail.com
 
-<figure><img align=center width=800 height=500 src="https://wakatime.com/share/@sjwsl/50bd014c-f72c-4ef5-b3c1-a281fd1074a2.svg"></img></figure>
+<figure><img align=center width=800 height=500 src="https://wakatime.com/share/@sjwsl/f0954cfd-e258-44df-9a4a-e8f73e0cd33a.svg"></img></figure>
