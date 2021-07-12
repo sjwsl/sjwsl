@@ -4,11 +4,9 @@ Junior undergraduate and expected to graduate in 2022.
 
 System programming with C++.
 
-GPU architect intern at [NVIDIA](https://github.com/NVIDIA).
+SWE Intern at [Google](https://github.com/google) SHA.
 
-Previous intern at [Tencent](https://github.com/Tencent), [TuSimple](https://github.com/TuSimple) and [PingCAP](https://github.com/PingCAP).
-
-Incoming SWE Intern at [Google](https://github.com/Google) in 2021 Summer.
+Previous intern at [NVIDIA](https://github.com/NVIDIA), [Tencent](https://github.com/Tencent), [TuSimple](https://github.com/TuSimple) and [PingCAP](https://github.com/PingCAP).
 
 NOT looking for a job.
 
