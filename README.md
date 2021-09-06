@@ -1,6 +1,6 @@
 ### About me
 
-Junior undergraduate and expected to graduate in 2022.
+Junior undergraduate in software engineering.
 
 System programming with C++.
 
